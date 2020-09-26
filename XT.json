@@ -23,6 +23,14 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg" 
+      },
+      {
+      "chainId": 1,
+      "address": "0x5f9d86fa0454ffd6a59ccc485e689b0a832313db",
+      "name": "XDT Coin",
+      "symbol": "XDT",
+      "decimals": 18,
+      "logoURI": "https://www.xt.pub/src/images/coin/coin-xdt.png" 
       }
     ],
     "version": {
