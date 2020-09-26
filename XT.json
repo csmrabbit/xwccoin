@@ -1,0 +1,33 @@
+{
+  "name": "XT",
+  "logoURI": "https://www.xt.pub/src/images/2020-index/logo.svg",
+  "keywords": [
+      "xt",
+      "XT",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xead4284Bc9B0f9C2c7e5235823B078830D7A59b9",
+      "name": "White Coin",
+      "symbol": "XWC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/csmrabbit/xwccoin/master/xwc.svg" 
+      },
+      {
+      "chainId": 1,
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg" 
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
