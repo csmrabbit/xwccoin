@@ -1,0 +1,25 @@
+{
+  "name": "XWC",
+  "logoURI": "https://raw.githubusercontent.com/csmrabbit/xwccoin/master/xwc.svg",
+  "keywords": [
+      "xwc",
+      "XWC",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xead4284Bc9B0f9C2c7e5235823B078830D7A59b9",
+      "name": "XWC",
+      "symbol": "XWC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/csmrabbit/xwccoin/master/xwc.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
