@@ -13,7 +13,7 @@
       "name": "White Coin",
       "symbol": "XWC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/csmrabbit/xwccoin/master/xwc.png"
+      "logoURI": "https://raw.githubusercontent.com/csmrabbit/xwccoin/master/xwc.svg"
     },
     {
       "chainId": 1,
