@@ -31,6 +31,14 @@
       "symbol": "XDT",
       "decimals": 18,
       "logoURI": "https://www.xt.pub/src/images/coin/coin-xdt.png" 
+      },
+      {
+      "chainId": 1,
+      "address": "0x805c169ae4b963d0103102d809f8434bdb7d9c68",
+      "name": " SHR Coin",
+      "symbol": "SHR",
+      "decimals": 18,
+      "logoURI": "https://www.fibtc.com/src/images/coin/coin-shc.png" 
       }
     ],
     "version": {
